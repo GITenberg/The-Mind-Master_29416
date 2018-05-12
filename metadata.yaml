@@ -1,0 +1,31 @@
+_repo: The-Mind-Master_29416
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29416-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burks, Arthur J.
+    birthdate: 1898
+    deathdate: 1974
+    gutenberg_agent_id: '33901'
+    url: http://www.gutenberg.org/2009/agents/33901
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_J._Burks
+description: Sequel to Manape the Mighty. Once more Lee Bentley is caught up in the
+  marvelous machinations of the mad genius Barter.
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Mind Master
+url: http://www.gutenberg.org/ebooks/29416
